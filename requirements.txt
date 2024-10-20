@@ -1,0 +1,5 @@
+yt-dlp==2024.10.7
+pillow==10.4.0
+opencv-python==4.10.0.84
+tqdm==4.66.5
+click==8.1.7
