@@ -34,6 +34,9 @@ Options:
 python main.py --url https://www.youtube.com/watch?v=6J6kF4ZGv6M --output slides.pdf
 ```
 
+Example slides [lec7.pdf](https://github.com/user-attachments/files/17450383/lec7.pdf)
+
+
 ```bash
 python yt2slides.py --url "https://www.youtube.com/watch?v=VIDEO_ID" --output "slides.pdf" \
   --resolution 1080 --no-face-detection --diff-threshold 5.0
